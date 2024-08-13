@@ -23,7 +23,7 @@ L'application "Gestion des Cartons" permet de calculer le nombre optimal de cart
 1. Clonez ce dépôt dans le répertoire de votre serveur web :
 
    ```
-   git clone https://github.com/votre-nom/gestion-cartons.git
+   git clone https://github.com/Amirofcodes/gestion_cartons.git
    ```
 
 2. Configurez votre base de données MySQL en modifiant le fichier `config.php` :
